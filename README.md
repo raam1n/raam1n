@@ -6,8 +6,8 @@
 Message (
     children: <Text.Me>[
       - Gmail ('Rabani.Ramin@Gmail.com'),
-      - Instagram ('Rabani.Ramin'),
-      - Telegram ('Ramin.Rabani')];
+      - Instagram ('ig.com/@Rabani_Ramin'),
+      - Telegram ('t.me/@Ramin.Rabani')];
 
 <!---
 raam1n/raam1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
